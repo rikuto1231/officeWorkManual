@@ -1,3 +1,6 @@
 変更
 １
+<<<<<<< Updated upstream
 変更２
+=======
+>>>>>>> Stashed changes
